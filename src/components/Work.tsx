@@ -5,22 +5,22 @@ import { MdArrowBack, MdArrowForward } from "react-icons/md";
 
 const projects = [
   {
-   title: "To Do List",
-   category: "Web Development",
-   tools: "React.js,JavaScript,HTML,CSS,Local Storage",
-   Features: "Add, Delete, Edit, Mark as Complete, Local Storage",
-   image: "/images/To do List.png",
-  }, 
-  {
-    title: "Radix",
-    category: "E-Commerce",
-    tools: "Angular, Next.js, NestJS, CMS",
-    image: "/images/radix.png",
+    title: "To Do List",
+    category: "Web Development",
+    tools: "React.js,JavaScript,HTML,CSS,Local Storage",
+    Features: "Add, Delete, Edit, Mark as Complete, Local Storage",
+    image: "/images/To do List.png",
   },
   {
-    title: "Bond Cancellation",
-    category: "Import-Export Automation",
-    tools: "Angular, Next.js, NestJS, Workflows",
+    title: "AI chatbot UI for Small Businesses",
+    category: "Web Development",
+    tools: "HTML, CSS, JavaScript, Tailwind CSS",
+    image: "/images/ai-chatbot.png",
+  },
+  {
+    title: "Finding missing person using AI",
+    category: "Web Development",
+    tools: "SQLite,OpenCV, Python, Machine Learning",
     image: "/images/bond.png",
   },
   {
