@@ -54,11 +54,11 @@ const Career = () => {
               Firebase, SQLite, and API
             </p>
              </div>
-          <div className="career-info-box">
+          {/* <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
                 <h4>Frontend Developer</h4>
-                <h5>Logic Loop</h5>
+                <h5></h5>
               </div>
               <h3>NOW</h3>
             </div>
@@ -67,7 +67,7 @@ const Career = () => {
               Next.js & NestJS. Delivering production-ready CMS-based projects
               including e-commerce, CRM, and import-export automation systems.
             </p>
-          </div>
+          </div> */}
         </div>
       </div>
     </div>

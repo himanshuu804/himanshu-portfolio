@@ -3,7 +3,15 @@ import "./styles/Work.css";
 import WorkImage from "./WorkImage";
 import { MdArrowBack, MdArrowForward } from "react-icons/md";
 
-const projects = [
+interface Project {
+  title: string;
+  category: string;
+  tools: string;
+  Features?: string;
+  image: string;
+}
+
+const projects: Project[] = [
   {
     title: "To Do List",
     category: "Web Development",
@@ -22,18 +30,6 @@ const projects = [
     category: "Web Development",
     tools: "SQLite,OpenCV, Python, Machine Learning",
     image: "/images/bond.png",
-  },
-  {
-    title: "Sapphire",
-    category: "CRM Platform",
-    tools: "AngularJS, NestJS, PostgreSQL",
-    image: "/images/sapphire.png",
-  },
-  {
-    title: "Mpro",
-    category: "Insurance Platform",
-    tools: "React.js, Node.js, Microservices",
-    image: "/images/Maxlife.png",
   },
 ];
 

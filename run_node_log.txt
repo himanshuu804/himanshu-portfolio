@@ -1,3 +1,0 @@
-warning: in the working copy of 'git_automation_log.txt', LF will be replaced by CRLF the next time Git touches it
-error: failed to push some refs to 'https://github.com/himanshuu804/himanshu-portfolio.git'
-failed to run git: exit status 1

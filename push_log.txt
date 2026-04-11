@@ -1,9 +1,0 @@
-Git LFS upload missing objects:
-  (missing) public/models/character.glb (c287a4d10bbbbc4c779f7b0a68b666b530ef9754142843aa048b4d5976c0d052)
-Uploading LFS objects:   0% (0/1), 0 B | 0 B/s, done.
-remote: error: GH008: Your push referenced at least 1 unknown Git LFS object:        
-remote:     c287a4d10bbbbc4c779f7b0a68b666b530ef9754142843aa048b4d5976c0d052        
-remote: Try to push them with 'git lfs push --all'.        
-To https://github.com/himanshuu804/himanshu-portfolio.git
- ! [remote rejected] master -> master (pre-receive hook declined)
-error: failed to push some refs to 'https://github.com/himanshuu804/himanshu-portfolio.git'
