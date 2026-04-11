@@ -29,7 +29,7 @@ const projects: Project[] = [
     title: "Finding missing person using AI",
     category: "Web Development",
     tools: "SQLite,OpenCV, Python, Machine Learning",
-    image: "/images/bond.png",
+    image: "/images/Missing Person.png",
   },
 ];
 
