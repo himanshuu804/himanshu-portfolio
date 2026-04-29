@@ -20,9 +20,10 @@ const projects: Project[] = [
     image: "/images/To do List.png",
   },
   {
-    title: "AI chatbot UI for Small Businesses",
+    title: "AI Chatbot UI for Small Businesses",
     category: "Web Development",
-    tools: "HTML, CSS, JavaScript, Tailwind CSS",
+    tools: "React.js, OpenAI API, Node.js, Tailwind CSS",
+    Features: "Plug-and-play embeddable widget with GPT integration and custom system prompts. Implemented token management reducing API cost by ~40% through history trimming.",
     image: "/images/ai-chatbot.png",
   },
   {

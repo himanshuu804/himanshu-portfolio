@@ -6,11 +6,11 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Frontend Developer with 4+ years of experience building scalable web
-          applications using React.js, Angular, Next.js, Node.js, and NestJS. Skilled
-          in microservices architecture, CMS development, and low-code platforms.
-          Passionate about creating high-performance, production-ready solutions
-          from concept to deployment.
+          Frontend Developer and Computer Science student with a strong foundation in building responsive and user-friendly
+          web applications using React.js, Angular, and Next.js.
+          Familiar with backend technologies like Node.js and NestJS,
+          with a keen interest in full-stack development. Passionate about learning modern web technologies and creating efficient,
+          scalable solutions through academic projects and personal work.
         </p>
       </div>
     </div>
